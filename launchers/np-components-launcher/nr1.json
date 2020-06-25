@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "np-components-launcher",
+    "displayName": "NpComponentsLauncher",
+    "description": "Describe me",
+    "rootNerdletId": "np-components-nerdlet"
+}
