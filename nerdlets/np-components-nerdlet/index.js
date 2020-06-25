@@ -1,9 +1,15 @@
-import React from 'react';
+import React from 'react'
+import { Tabs, TabsItem } from 'nr1'
+import AlertValuesDemo from '../../components/AlertValue/demo'
 
-// https://docs.newrelic.com/docs/new-relic-programmable-platform-introduction
-
-export default class NpComponentsNerdletNerdlet extends React.Component {
-    render() {
-        return <h1>Hello, np-components-nerdlet Nerdlet!</h1>;
-    }
+export default class CustomComponents extends React.Component {
+  render() {
+    return (
+      <Tabs defaultValue="tab-1">
+        <TabsItem value="tab-1" label="Conditionals">
+          <AlertValuesDemo />
+        </TabsItem>
+      </Tabs>
+    )
+  }
 }
