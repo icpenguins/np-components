@@ -1,6 +1,5 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import './AlertValue.css'
 import {
   createMutableProperty as cmp,
   getDuration as gd } from '../../common/utils'
