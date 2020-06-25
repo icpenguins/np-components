@@ -1,6 +1,6 @@
 {
     "schemaType": "NERDPACK",
     "id": "43857f95-b40b-41e2-8c79-7660be778c72",
-    "displayName": "NpComponents",
-    "description": "Nerdpack np-components"
+    "displayName": "Custom Nerdpack Components",
+    "description": "This Nerdpack was created to demo custom components and features of Nerdpack development."
 }

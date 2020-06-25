@@ -1,7 +1,7 @@
 {
     "schemaType": "LAUNCHER",
     "id": "np-components-launcher",
-    "displayName": "NpComponentsLauncher",
-    "description": "Describe me",
+    "displayName": "Custom Components",
+    "description": "Check out these ready to use custom components.",
     "rootNerdletId": "np-components-nerdlet"
 }

@@ -1,6 +1,6 @@
 {
     "schemaType": "NERDLET",
     "id": "np-components-nerdlet",
-    "displayName": "NpComponentsNerdlet",
-    "description": ""
+    "displayName": "Custom React Components",
+    "description": "The intent of this Nerdlet is to demo custom controls."
 }
